@@ -1,0 +1,38 @@
+.bgImage{
+    background-image: url('./assets/bg.jpg');
+  }
+  .bg {
+   
+    background-image:  linear-gradient(to bottom, #3e727bb3, #406d7bb3), url("./assets/bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  } 
+  
+  ._sec_9_main{
+    background-image: linear-gradient(to bottom, #ffffffaa, #ffffffaa), url("./assets/sec8.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  ._sec_10_main{
+    background-image: url("./assets/sec9.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .bg-section20 {
+    background-image: linear-gradient(to bottom, #54a96ab3, #54a96ab3), url("./assets/card5.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .bg-section2 {
+    background-image: linear-gradient(to bottom, #ffffffcc, #ffffffcc), url("./assets/card2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
